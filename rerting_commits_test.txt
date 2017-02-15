@@ -1,3 +1,4 @@
 Test file for reverting commits. Contains exactly one line per commit.
 First additional line.
 Second additional line.
+Third additional line.
